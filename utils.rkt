@@ -1,5 +1,5 @@
 ;;; File:
-;;;   utils.rkt
+;;;   csc151/utils.rkt
 ;;; Author:
 ;;;   Jinna Kim
 ;;; Summary:
